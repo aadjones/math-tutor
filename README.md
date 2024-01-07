@@ -1,5 +1,5 @@
 # math-tutor
-Basic chatbot wrapper of GPT with system prompts to behave more tutorlike
+Basic GPT chatbot using system and lesson prompts to behave more tutorlike. 
 ## How to use
 First, install the python dependencies of OpenAI and streamlit with pip:
 
